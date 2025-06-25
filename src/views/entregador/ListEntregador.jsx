@@ -12,6 +12,7 @@ import {
   Table,
 } from "semantic-ui-react";
 import MenuSistema from "../../MenuSistema";
+//ajetar depois
 
 export default function ListEntregador() {
   const [lista, setLista] = useState([]);
